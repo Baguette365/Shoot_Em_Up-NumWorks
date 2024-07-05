@@ -14,7 +14,7 @@ this add :
 the https://github.com/Baguette365/Shoot_Em_Up-NumWorks/blob/main/kandsky.py script was writen by https://github.com/zenith391
 
 
-#computer version
+# computer version
 
 to run this file on a computor(windows, OSX(mac), linux):
 
@@ -39,7 +39,7 @@ ceci ajoute :
 
 le script https://github.com/Baguette365/Shoot_Em_Up-NumWorks/blob/main/kandsky.py a été écrit par https://github.com/zenith391
 
-#version pour ordinateur
+# version pour ordinateur
 
 pour exécuter ce fichier sur un ordinateur (windows, OSX(mac), linux) :
 
