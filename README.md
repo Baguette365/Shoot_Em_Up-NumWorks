@@ -1,4 +1,5 @@
-# Shoot_Em_Up-NumWorks
+# English
+you need to have the kandsky.py script on your calculator / pc
 
 this python script is an upgrade of : https://github.com/Baguette365/space-invaders-numworks
 
@@ -21,7 +22,7 @@ to run this file on a computor(windows, OSX(mac), linux):
 
 French
 
-# Shoot_Em_Up-NumWorks
+# Francais
 
 ce script python est une mise à jour de : https://github.com/Baguette365/space-invaders-numworks
 
@@ -41,3 +42,6 @@ pour exécuter ce fichier sur un ordinateur (windows, OSX(mac), linux) :
  - tapez dans votre terminal '''pip install kandinsky'''
  - et tapez '''pip install ion-numworks'''
  - et vous devez disposer de la bibliothèque par défaut de python 3.x
+
+
+NESSECISTE le script kandsky
