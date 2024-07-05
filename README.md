@@ -23,7 +23,7 @@ to run this file on a computor(windows, OSX(mac), linux):
   - and type '''pip install ion-numworks'''
   - and you need to have default library of python 3.x
 
-when you play on pc , go to the option button and go to OS and click on PC
+when you play on pc , go to the option button and go to OS and click on PC when the script run
 
 # Francais
 
@@ -51,4 +51,4 @@ pour exécuter ce fichier sur un ordinateur (windows, OSX(mac), linux) :
 
 NESSECISTE le script kandsky
 
-quand vous jouez sur le PC, allez dans l'onglet option, OS et clickez sur PC
+quand vous jouez sur le PC, allez dans l'onglet option, OS et clickez sur PC quand vous etes sur la feunetre de jeu
