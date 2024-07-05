@@ -13,6 +13,9 @@ this add :
 
 the https://github.com/Baguette365/Shoot_Em_Up-NumWorks/blob/main/kandsky.py script was writen by https://github.com/zenith391
 
+
+#computer version
+
 to run this file on a computor(windows, OSX(mac), linux):
 
   - create a virtual python evironement(.venv) [OPTIONAL]
@@ -20,7 +23,7 @@ to run this file on a computor(windows, OSX(mac), linux):
   - and type '''pip install ion-numworks'''
   - and you need to have default library of python 3.x
 
-French
+when you play on pc , go to the option button and go to OS and click on PC
 
 # Francais
 
@@ -36,6 +39,8 @@ ceci ajoute :
 
 le script https://github.com/Baguette365/Shoot_Em_Up-NumWorks/blob/main/kandsky.py a été écrit par https://github.com/zenith391
 
+#version pour ordinateur
+
 pour exécuter ce fichier sur un ordinateur (windows, OSX(mac), linux) :
 
  - créer un environnement python virtuel (.venv) [OPTIONNEL]
@@ -45,3 +50,5 @@ pour exécuter ce fichier sur un ordinateur (windows, OSX(mac), linux) :
 
 
 NESSECISTE le script kandsky
+
+quand vous jouez sur le PC, allez dans l'onglet option, OS et clickez sur PC
